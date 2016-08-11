@@ -172,6 +172,7 @@
                 android:layout_width="160dp"
                 android:layout_height="160dp"
                 android:src="@drawable/ic_whatshot_black_48dp"
+                android:tint="#7B1FA2"
             />
 
             <TextView
