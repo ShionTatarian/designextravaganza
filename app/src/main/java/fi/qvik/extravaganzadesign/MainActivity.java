@@ -15,7 +15,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import fi.qvik.extravaganzadesign.R;
+import fi.qvik.designextravaganza.R;
 
 public class MainActivity extends AppCompatActivity {
 
